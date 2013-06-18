@@ -1,0 +1,25 @@
+*.tmp
+*.bak
+
+# eclipse specific
+.project
+.metadata
+.classpath
+.loadpath
+.settings/
+local.properties
+
+# netbeans specific
+nbproject/
+
+# phpstorm specific
+.idea/
+
+# sublimetext specific
+*.sublime-workspace
+
+# windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
